@@ -81,7 +81,7 @@ To install:
 
 - on Windows: "C:\Program Files\Inkscape\share\extensions" OR in "C:\Users\Users\YourUserName\.Appdata\Roaming\inkscape\extensions"
 - on Linux: " /home/yourusername/.config/inkscape/extensions" (.config is a hidden folder)
-- on OS X: "/Applications/Inkscape.app/Contents/Resources/extensions" 
+- on OS X: "/Applications/Inkscape.app/Contents/Resources/extensions" or "/Applications/Inkscape.app//Contents/Resources/share/inkscape/extensions"
 
 Restart or open Inkscape.
 
